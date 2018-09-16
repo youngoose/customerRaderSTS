@@ -1,0 +1,1001 @@
+﻿Index,Customer Name,Customer ID,Product,Price
+1,Muhammed MacIntyre,3,Storage & Organization,38.94
+2,Barry French,293,Appliances,208.16
+3,Barry French,293,Binders and Binder Accessories,8.69
+4,Clay Rozendal,483,Telephones and Communication,195.99
+5,Carlos Soltero,515,Appliances,21.78
+6,Carlos Soltero,515,Office Furnishings,6.64
+7,Carl Jackson,613,Binders and Binder Accessories,7.3
+8,Carl Jackson,613,Storage & Organization,42.76
+9,Monica Federle,643,Storage & Organization,138.14
+10,Dorothy Badders,678,Paper,4.98
+11,Neola Schneider,807,Paper,4.28
+12,Neola Schneider,807,Rubber Bands,3.95
+13,Carlos Daly,868,Appliances,21.78
+14,Carlos Daly,868,Computer Peripherals,47.98
+15,Claudia Miner,933,Binders and Binder Accessories,5.28
+16,Neola Schneider,995,Office Furnishings,39.89
+17,Allen Rosenblatt,998,Envelopes,15.74
+18,Sylvia Foulston,1154,Bookcases,100.98
+19,Sylvia Foulston,1154,Tables,71.37
+20,Jim Radford,1344,Telephones and Communication,65.99
+21,Jim Radford,1344,Telephones and Communication,155.99
+22,Carlos Soltero,1412,Labels,3.69
+23,Carlos Soltero,1412,Rubber Bands,4.71
+24,Carl Ludwig,1539,Binders and Binder Accessories,15.99
+25,Carl Ludwig,1539,Computer Peripherals,4.89
+26,Don Miller,1540,Pens & Art Supplies,2.88
+27,Annie Cyprus,1702,Pens & Art Supplies,2.84
+28,Carl Ludwig,1761,Copiers and Fax,449.99
+29,Carlos Soltero,1792,Storage & Organization,13.48
+30,Grant Carroll,2275,Pens & Art Supplies,6.08
+31,Don Miller,2277,Computer Peripherals,5.98
+32,Don Miller,2277,Paper,40.99
+33,Alan Barnes,2532,Labels,7.31
+34,Alan Barnes,2532,Telephones and Communication,20.99
+35,Jack Garza,2631,Computer Peripherals,40.96
+36,Julia West,2757,Chairs & Chairmats,95.95
+37,Eugene Barchas,2791,Binders and Binder Accessories,3.89
+38,Eugene Barchas,2791,Chairs & Chairmats,120.98
+39,Eugene Barchas,2791,Paper,30.98
+40,Edward Hooks,2976,Chairs & Chairmats,500.98
+41,Brad Eason,3232,Binders and Binder Accessories,7.84
+42,Nicole Hansen,3524,Paper,18.97
+43,Dorothy Wardle,3908,Telephones and Communication,115.99
+44,Aaron Bergman,4132,Labels,2.88
+45,Jim Radford,4612,Appliances,4.48
+46,Annie Cyprus,4676,Telephones and Communication,125.99
+47,Annie Cyprus,4676,Labels,3.75
+48,Annie Cyprus,4676,Paper,12.28
+49,Annie Cyprus,4676,Telephones and Communication,155.99
+50,Annie Cyprus,5284,Binders and Binder Accessories,8.69
+51,Clay Rozendal,5316,Computer Peripherals,31.78
+52,Don Jones,5409,Paper,3.98
+53,Beth Thompson,5506,Paper,5.88
+54,Frank Price,5569,Office Furnishings,9.65
+55,Michelle Lonsdale,5607,Telephones and Communication,7.99
+56,Ann Chong,5894,Binders and Binder Accessories,58.1
+57,Ann Chong,5894,Appliances,80.48
+58,Joy Bell,5925,Office Furnishings,92.23
+59,Joy Bell,5925,Telephones and Communication,85.99
+60,Skye Norling,6016,Paper,11.48
+61,Barry Weirich,6116,"Scissors, Rulers and Trimmers",1637.53
+62,Grant Carroll,6182,Paper,6.48
+63,Grant Carroll,6182,Paper,6.48
+64,Adrian Hane,6535,Pens & Art Supplies,28.15
+65,Skye Norling,6884,Paper,4.98
+66,Skye Norling,6884,Paper,6.35
+67,Andrew Gjertsen,6916,Storage & Organization,10.9
+68,Ralph Knight,6980,Binders and Binder Accessories,7.3
+69,Dorothy Wardle,6982,Computer Peripherals,39.48
+70,Dorothy Wardle,6982,Bookcases,100.98
+71,Dorothy Wardle,6982,Office Furnishings,19.98
+72,Grant Carroll,7110,Chairs & Chairmats,276.2
+73,Barry Weirich,7430,Envelopes,15.67
+74,Beth Paige,7906,Appliances,25.98
+75,Sylvia Foulston,8391,Chairs & Chairmats,300.98
+76,Nicole Hansen,8419,Paper,19.98
+77,Nicole Hansen,8419,Paper,6.48
+78,Nicole Hansen,8833,Storage & Organization,80.98
+79,Beth Paige,8995,Binders and Binder Accessories,1.88
+80,Beth Paige,8995,Paper,6.48
+81,Beth Paige,8995,Office Furnishings,102.3
+82,Beth Paige,8995,Paper,6.48
+83,Beth Paige,8995,Rubber Bands,1.89
+84,Sylvia Foulston,9126,Appliances,62.05
+85,Bryan Davis,9127,Storage & Organization,279.48
+86,Joy Bell,9509,Chairs & Chairmats,320.98
+87,Joy Bell,9509,Paper,18.97
+88,Joy Bell,9509,Paper,48.91
+89,Alan Barnes,9763,Labels,4.13
+90,Grant Carroll,9927,Bookcases,140.98
+91,Grant Carroll,9927,Chairs & Chairmats,218.08
+92,Grant Carroll,9927,Computer Peripherals,50.98
+93,Delfina Latchford,10022,Paper,10.14
+94,Don Jones,10437,Binders and Binder Accessories,15.99
+95,Doug Bickford,10499,Tables,262.11
+96,Doug Bickford,10535,Office Furnishings,33.98
+97,Doug Bickford,10535,Pens & Art Supplies,1.76
+98,Jamie Kunitz,10789,Pens & Art Supplies,19.84
+99,Anthony Johnson,10791,Paper,19.98
+100,Ralph Knight,10945,Telephones and Communication,95.99
+101,Allen Rosenblatt,11137,Storage & Organization,111.03
+102,Barry Weirich,11202,Binders and Binder Accessories,43.41
+103,Doug Bickford,11456,Office Furnishings,105.34
+104,Carl Jackson,11460,Labels,3.69
+105,Brendan Dodson,11495,Tables,146.34
+106,Edward Hooks,11911,Binders and Binder Accessories,15.22
+107,Jamie Kunitz,11941,Storage & Organization,15.7
+108,Jamie Kunitz,11941,Tables,179.29
+109,Michelle Lonsdale,12096,Telephones and Communication,200.99
+110,Michelle Lonsdale,12096,Office Furnishings,194.3
+111,Brendan Dodson,12289,Office Machines,120.97
+112,Hunter Glantz,12352,Binders and Binder Accessories,5.81
+113,Sylvia Foulston,12419,Office Machines,1938.02
+114,Eugene Barchas,12485,Chairs & Chairmats,226.67
+115,Jim Radford,12544,Office Furnishings,2.08
+116,Carlos Soltero,12704,Copiers and Fax,499.99
+117,Carlos Soltero,12704,Storage & Organization,20.98
+118,Carlos Soltero,12771,Labels,30.53
+119,Carlos Soltero,12771,Pens & Art Supplies,1.68
+120,Jim Radford,12929,Chairs & Chairmats,270.98
+121,Jim Radford,12929,Paper,4.48
+122,Grant Carroll,13280,Storage & Organization,10.9
+123,Grant Carroll,13280,Telephones and Communication,7.99
+124,Skye Norling,13313,Appliances,21.66
+125,Doug Bickford,13346,Paper,6.48
+126,Grant Carroll,13702,Paper,35.44
+127,Muhammed MacIntyre,13795,Binders and Binder Accessories,15.99
+128,Muhammed MacIntyre,13795,Paper,11.34
+129,Muhammed MacIntyre,13795,Paper,35.44
+130,Doug Bickford,14116,Binders and Binder Accessories,30.98
+131,Doug Bickford,14116,Binders and Binder Accessories,34.54
+132,Beth Thompson,14372,Bookcases,170.98
+133,Ralph Knight,14726,Computer Peripherals,20.95
+134,Carl Jackson,14819,Appliances,207.48
+135,Carl Jackson,14819,Bookcases,58.14
+136,Dorothy Badders,15106,Office Furnishings,6.64
+137,Dorothy Badders,15106,Office Machines,145.45
+138,Dorothy Badders,15106,Pens & Art Supplies,2.21
+139,Delfina Latchford,15108,Paper,40.99
+140,Julia West,15205,Chairs & Chairmats,243.98
+141,Julia West,15205,Office Furnishings,39.98
+142,Brad Eason,15591,Office Furnishings,12.58
+143,Thomas Seio,15907,Bookcases,48.58
+144,Thomas Seio,15907,Office Furnishings,105.98
+145,Thomas Seio,15907,Paper,7.04
+146,Monica Federle,15937,Computer Peripherals,9.78
+147,Monica Federle,15937,Office Furnishings,12.22
+148,Michelle Lonsdale,16039,Computer Peripherals,43.98
+149,Frank Price,16193,Storage & Organization,34.76
+150,Frank Price,16193,Telephones and Communication,55.99
+151,Bryan Davis,16423,Paper,6.48
+152,Don Jones,16451,Binders and Binder Accessories,30.56
+153,Carlos Soltero,16545,Pens & Art Supplies,5.16
+154,Carlos Soltero,16545,"Scissors, Rulers and Trimmers",3.68
+155,Nicole Hansen,16547,Chairs & Chairmats,355.98
+156,Nicole Hansen,16547,Tables,218.75
+157,Beth Thompson,16706,Office Furnishings,41.47
+158,Beth Thompson,16706,Pens & Art Supplies,2.78
+159,Beth Thompson,16706,Telephones and Communication,155.99
+160,Nicole Hansen,16741,Paper,22.84
+161,Carlos Soltero,16932,Paper,5.78
+162,Carlos Soltero,16932,Pens & Art Supplies,6.7
+163,Dorothy Badders,17283,Office Machines,1360.14
+164,Muhammed MacIntyre,17286,Chairs & Chairmats,270.98
+165,Muhammed MacIntyre,17409,Computer Peripherals,20.97
+166,Don Miller,17764,Paper,22.84
+167,Sylvia Foulston,18080,Chairs & Chairmats,180.98
+168,Becky Castell,18113,Chairs & Chairmats,130.98
+169,Dorothy Wardle,18144,Paper,4.28
+170,Dorothy Wardle,18144,Storage & Organization,28.28
+171,Dorothy Wardle,18144,Telephones and Communication,55.99
+172,Ann Chong,18308,Binders and Binder Accessories,3.8
+173,Ann Chong,18308,Computer Peripherals,30.73
+174,Ann Chong,18308,Telephones and Communication,125.99
+175,Clay Rozendal,18887,Telephones and Communication,20.99
+176,Grant Carroll,19010,Binders and Binder Accessories,1270.99
+177,Brendan Dodson,19078,Appliances,11.97
+178,Carlos Daly,19138,Storage & Organization,12.28
+179,Alan Barnes,19655,Computer Peripherals,39.24
+180,Alan Barnes,19686,Office Machines,17.98
+181,Alan Barnes,19686,Binders and Binder Accessories,12.95
+182,Nicole Hansen,20007,Pens & Art Supplies,1.68
+183,Cari Schnelling,20071,Chairs & Chairmats,25.98
+184,Chad Cunningham,20160,Paper,10.31
+185,Bryan Mills,20263,Binders and Binder Accessories,59.78
+186,Bryan Mills,20263,Telephones and Communication,20.99
+187,Adrian Hane,21285,Pens & Art Supplies,1.68
+188,Adrian Hane,21285,Pens & Art Supplies,7.08
+189,Rick Reed,21383,Office Machines,574.74
+190,Heather Kirkland,21607,Pens & Art Supplies,36.55
+191,Fred Wasserman,21636,Telephones and Communication,55.99
+192,Becky Castell,21889,Office Furnishings,51.75
+193,Becky Castell,21889,Storage & Organization,55.29
+194,Beth Thompson,22151,Office Furnishings,9.65
+195,Claudia Miner,22342,Telephones and Communication,20.99
+196,Jack Lebron,22469,Telephones and Communication,7.99
+197,Alan Barnes,22501,Envelopes,7.64
+198,Carlos Soltero,22532,Binders and Binder Accessories,8.85
+199,Clay Rozendal,23264,Paper,6.48
+200,Clay Rozendal,23264,Labels,2.88
+201,Julia West,23488,Bookcases,880.98
+202,Alan Barnes,23584,Office Machines,200.97
+203,Joy Bell,24007,Computer Peripherals,20.89
+204,Joy Bell,24007,Envelopes,11.58
+205,Joy Bell,24007,Labels,4.13
+206,Jack Lebron,24038,Pens & Art Supplies,2.78
+207,Anthony Johnson,24097,Computer Peripherals,14.48
+208,Anthony Johnson,24097,Computer Peripherals,99.99
+209,Anthony Johnson,24097,Paper,4.98
+210,Eugene Barchas,24128,Paper,21.98
+211,Eugene Barchas,24128,Telephones and Communication,195.99
+212,Thomas Seio,24294,Office Machines,200.97
+213,Bryan Mills,24387,Office Furnishings,40.97
+214,Bryan Mills,24387,Tables,349.45
+215,Eugene Barchas,24515,Office Machines,80.97
+216,Sylvia Foulston,24743,Chairs & Chairmats,216.6
+217,Sylvia Foulston,24743,Chairs & Chairmats,140.81
+218,Carl Ludwig,24871,Office Furnishings,22.72
+219,Julia West,25318,Office Furnishings,19.98
+220,Don Jones,25377,Office Machines,1500.97
+221,Mike Pelletier,25634,Computer Peripherals,20.95
+222,Mike Pelletier,25634,Envelopes,23.99
+223,Eugene Barchas,25733,Binders and Binder Accessories,24.92
+224,Ann Chong,25767,Computer Peripherals,39.48
+225,Ann Chong,25767,Paper,38.76
+226,Charles McCrossin,26023,Rubber Bands,2.47
+227,Annie Cyprus,26051,Chairs & Chairmats,33.94
+228,Annie Cyprus,26051,Computer Peripherals,8.33
+229,Carlos Soltero,26116,Paper,18.97
+230,Doug Bickford,26182,Bookcases,150.98
+231,Carlos Daly,26272,Chairs & Chairmats,140.81
+232,Fred Wasserman,26370,Paper,22.84
+233,Fred Wasserman,26370,Storage & Organization,34.76
+234,Sylvia Foulston,26499,Labels,2.88
+235,Michelle Lonsdale,26531,Telephones and Communication,205.99
+236,Sylvia Foulston,26567,Binders and Binder Accessories,5.4
+237,Sylvia Foulston,26567,Computer Peripherals,8.46
+238,Sylvia Foulston,26567,Office Furnishings,14.98
+239,Sylvia Foulston,26567,Telephones and Communication,155.99
+240,Charlotte Melton,26854,Office Furnishings,25.38
+241,Barry French,27109,Computer Peripherals,10.97
+242,Heather Kirkland,27111,Computer Peripherals,99.99
+243,Heather Kirkland,27111,Storage & Organization,193.17
+244,Heather Kirkland,27111,Telephones and Communication,20.99
+245,Henry Goldwyn,27264,Office Furnishings,19.99
+246,Frank Price,27392,Office Machines,150.98
+247,Jim Radford,27553,Storage & Organization,370.98
+248,Jim Radford,27553,Telephones and Communication,179.99
+249,Ralph Knight,27555,Paper,6.74
+250,Delfina Latchford,27680,Appliances,10.89
+251,Delfina Latchford,27680,Paper,6.48
+252,Roy Skaria,27778,Binders and Binder Accessories,223.98
+253,Roy Skaria,27778,Bookcases,140.98
+254,Monica Federle,27909,Paper,54.96
+255,Monica Federle,27909,Rubber Bands,1.26
+256,Charles McCrossin,28003,Paper,4.98
+257,Don Miller,28035,Binders and Binder Accessories,18.99
+258,Jeremy Lonsdale,28135,Appliances,46.89
+259,Jeremy Lonsdale,28135,"Scissors, Rulers and Trimmers",12.98
+260,Grant Carroll,28165,Binders and Binder Accessories,10.91
+261,Carl Ludwig,28289,Paper,4.98
+262,Carlos Daly,28486,Storage & Organization,415.88
+263,Ralph Knight,28675,Telephones and Communication,65.99
+264,Cindy Schnelling,28870,Telephones and Communication,115.99
+265,Claudia Miner,28871,Computer Peripherals,5.02
+266,Roy Skaria,29030,Pens & Art Supplies,19.84
+267,Delfina Latchford,29095,Binders and Binder Accessories,6.75
+268,Edward Hooks,29287,Binders and Binder Accessories,5.74
+269,Edward Hooks,29287,Office Machines,270.97
+270,Don Miller,29510,Bookcases,260.98
+271,Grant Carroll,29795,Binders and Binder Accessories,387.99
+272,Grant Carroll,29795,Bookcases,160.98
+273,Brad Eason,29861,Labels,3.08
+274,Charles McCrossin,30658,Copiers and Fax,499.99
+275,Charles McCrossin,30658,Storage & Organization,138.14
+276,Charles McCrossin,30947,Binders and Binder Accessories,41.94
+277,Charles McCrossin,30947,Labels,7.31
+278,Bryan Mills,31077,Telephones and Communication,65.99
+279,Monica Federle,31111,Paper,7.64
+280,Michelle Lonsdale,31169,Office Furnishings,40.97
+281,Michelle Lonsdale,31270,Chairs & Chairmats,299.05
+282,Michelle Lonsdale,31270,Chairs & Chairmats,291.73
+283,Michelle Lonsdale,31270,Computer Peripherals,30.42
+284,Beth Thompson,31364,Storage & Organization,415.88
+285,Cindy Schnelling,31393,Office Furnishings,19.94
+286,Cindy Schnelling,31393,"Scissors, Rulers and Trimmers",3.68
+287,Nicole Hansen,31492,Appliances,11.97
+288,Nicole Hansen,31492,Storage & Organization,29.74
+289,Nicole Hansen,31492,Storage & Organization,95.43
+290,Cari Schnelling,31558,Appliances,300.65
+291,Cari Schnelling,31558,Computer Peripherals,45.19
+292,Roy Skaria,31618,Binders and Binder Accessories,28.53
+293,Susan Vittorini,31684,Paper,5.68
+294,Susan Vittorini,31684,Storage & Organization,15.51
+295,Sylvia Foulston,31781,Binders and Binder Accessories,5.81
+296,Sylvia Foulston,31781,Rubber Bands,1.81
+297,Chad Cunningham,32193,Paper,6.68
+298,Chad Cunningham,32193,Rubber Bands,3.93
+299,Carlos Daly,32229,Office Machines,150.98
+300,Carlos Daly,32229,Pens & Art Supplies,1.76
+301,Grant Carroll,32743,Appliances,177.98
+302,Julia West,32806,Office Furnishings,20.24
+303,Roy Skaria,33123,Bookcases,150.98
+304,Cindy Schnelling,33159,Telephones and Communication,20.99
+305,Don Jones,33186,Telephones and Communication,65.99
+306,Beth Thompson,33377,Paper,5.18
+307,Beth Thompson,33377,"Scissors, Rulers and Trimmers",17.24
+308,Alan Barnes,33444,Pens & Art Supplies,2.6
+309,Alan Barnes,33444,Storage & Organization,14.97
+310,Carl Ludwig,33703,Computer Peripherals,60.98
+311,Carl Ludwig,33703,Storage & Organization,29.74
+312,Carl Ludwig,33703,Storage & Organization,12.21
+313,Jamie Kunitz,33734,Paper,29.14
+314,Heather Kirkland,33888,Binders and Binder Accessories,11.5
+315,Heather Kirkland,33888,Storage & Organization,15.7
+316,Heather Kirkland,33888,Storage & Organization,225.02
+317,Doug Bickford,33894,Paper,9.27
+318,Doug Bickford,33894,"Scissors, Rulers and Trimmers",6.84
+319,Doug Bickford,33894,Computer Peripherals,4.98
+320,Doug Bickford,33894,Computer Peripherals,32.98
+321,Carlos Daly,33922,Office Machines,500.97
+322,Toby Braunhardt,34177,Labels,2.61
+323,Toby Braunhardt,34177,Labels,7.31
+324,Toby Braunhardt,34177,Telephones and Communication,20.99
+325,Cari Schnelling,34215,Binders and Binder Accessories,5.34
+326,Thomas Seio,34246,Appliances,4.06
+327,Thomas Seio,34246,Office Machines,99.99
+328,Thomas Seio,34246,Envelopes,11.58
+329,Brendan Dodson,34631,Binders and Binder Accessories,3.36
+330,Brendan Dodson,34631,Copiers and Fax,699.99
+331,Charlotte Melton,35047,Rubber Bands,4.71
+332,Beth Thompson,35266,Pens & Art Supplies,5.84
+333,Beth Thompson,35266,Tables,218.75
+334,Eugene Barchas,35847,Computer Peripherals,15.98
+335,Michelle Lonsdale,36001,Binders and Binder Accessories,22.38
+336,Michelle Lonsdale,36001,Binders and Binder Accessories,12.95
+337,Grant Carroll,36134,Telephones and Communication,155.99
+338,Beth Paige,36135,Telephones and Communication,35.99
+339,Dorothy Wardle,36644,Computer Peripherals,99.99
+340,Muhammed MacIntyre,36646,Storage & Organization,48.91
+341,Charlotte Melton,36707,Rubber Bands,3.78
+342,Muhammed MacIntyre,37253,Computer Peripherals,26.31
+343,Claudia Miner,37541,Computer Peripherals,20.95
+344,Claudia Miner,37541,Paper,55.98
+345,Claudia Miner,37541,Storage & Organization,80.98
+346,Brendan Dodson,37634,Storage & Organization,12.21
+347,Dorothy Wardle,37793,"Scissors, Rulers and Trimmers",13.9
+348,Mike Pelletier,37860,Office Furnishings,55.5
+349,Edward Hooks,38884,Paper,5.28
+350,Edward Hooks,38884,Tables,296.18
+351,Jamie Kunitz,39364,Office Furnishings,92.23
+352,Jamie Kunitz,39364,Binders and Binder Accessories,1270.99
+353,Julia West,39457,Chairs & Chairmats,122.99
+354,Jeremy Lonsdale,39683,Binders and Binder Accessories,18.99
+355,Jeremy Lonsdale,39683,Chairs & Chairmats,218.08
+356,Jeremy Lonsdale,39683,Office Furnishings,20.24
+357,Jeremy Lonsdale,39683,Rubber Bands,2.18
+358,Cindy Schnelling,39846,Computer Peripherals,4.98
+359,Heather Kirkland,40036,Telephones and Communication,65.99
+360,Alan Barnes,40067,Telephones and Communication,65.99
+361,Hunter Glantz,40132,Chairs & Chairmats,50.98
+362,Hunter Glantz,40132,Tables,124.49
+363,Hunter Glantz,40132,Binders and Binder Accessories,22.38
+364,Julia West,40160,Office Furnishings,63.94
+365,Carlos Daly,40518,Binders and Binder Accessories,4.13
+366,Barry French,40804,Chairs & Chairmats,122.99
+367,Susan Vittorini,40902,Binders and Binder Accessories,7.1
+368,Carl Jackson,41063,Pens & Art Supplies,21.38
+369,Carl Jackson,41063,Telephones and Communication,35.99
+370,Carl Jackson,41063,Telephones and Communication,85.99
+371,Alan Barnes,41153,Computer Peripherals,30.73
+372,Charlotte Melton,41184,Storage & Organization,15.7
+373,Beth Thompson,41409,Binders and Binder Accessories,11.5
+374,Bryan Mills,41696,Appliances,4.48
+375,Alan Barnes,42209,Appliances,67.84
+376,Alan Barnes,42209,Chairs & Chairmats,276.2
+377,Beth Paige,42561,Telephones and Communication,85.99
+378,Mike Pelletier,42564,Chairs & Chairmats,200.98
+379,Delfina Latchford,42695,Telephones and Communication,65.99
+380,Susan Vittorini,42981,Binders and Binder Accessories,896.99
+381,Dorothy Wardle,43109,Binders and Binder Accessories,15.01
+382,Dorothy Wardle,43109,Computer Peripherals,20.97
+383,Dorothy Wardle,43109,Computer Peripherals,10.01
+384,Susan Vittorini,43203,Paper,6.68
+385,Jamie Kunitz,43236,Office Furnishings,9.77
+386,Fred Wasserman,43267,Appliances,76.72
+387,Doug Bickford,43329,Appliances,59.98
+388,Fred Wasserman,43330,Telephones and Communication,65.99
+389,Susan Vittorini,43364,Envelopes,23.99
+390,Doug Bickford,43392,Envelopes,162.93
+391,Claudia Miner,43781,Envelopes,10.94
+392,Claudia Miner,43781,Binders and Binder Accessories,40.98
+393,Frank Price,44071,Binders and Binder Accessories,5.99
+394,Frank Price,44071,Telephones and Communication,65.99
+395,Dorothy Wardle,44519,Binders and Binder Accessories,4.57
+396,Dorothy Wardle,44519,Envelopes,10.67
+397,Dorothy Wardle,44519,Office Machines,442.14
+398,Allen Rosenblatt,44708,Office Furnishings,1.74
+399,Dorothy Wardle,44772,Telephones and Communication,55.99
+400,Julia West,44839,Office Furnishings,33.98
+401,Ralph Knight,45217,Telephones and Communication,200.99
+402,Michelle Lonsdale,45440,Chairs & Chairmats,135.99
+403,Charlotte Melton,45766,Office Furnishings,63.94
+404,Charlotte Melton,45766,Office Machines,140.99
+405,Allen Rosenblatt,45861,Telephones and Communication,20.99
+406,Neola Schneider,45957,Computer Peripherals,39.24
+407,Neola Schneider,45957,Paper,7.64
+408,Joy Bell,46912,Office Furnishings,54.74
+409,Monica Federle,46980,Labels,6.3
+410,Jamie Kunitz,47460,Pens & Art Supplies,2.84
+411,Susan Vittorini,47462,Binders and Binder Accessories,3.58
+412,Susan Vittorini,47462,Pens & Art Supplies,5.85
+413,Susan Vittorini,47462,Rubber Bands,3.29
+414,Charles McCrossin,47620,"Scissors, Rulers and Trimmers",10.98
+415,Cari Schnelling,47749,"Scissors, Rulers and Trimmers",8.45
+416,Doug Bickford,47873,Office Furnishings,5.89
+417,Don Miller,47943,Labels,4.91
+418,Don Miller,47943,Pens & Art Supplies,15.94
+419,Fred Wasserman,48101,Paper,22.84
+420,Bryan Mills,48295,Office Machines,204.1
+421,Carlos Daly,48839,Labels,98.31
+422,Joy Bell,49154,Appliances,60.98
+423,Claudia Miner,49921,Office Machines,145.45
+424,Claudia Miner,49921,Storage & Organization,12.28
+425,Beth Thompson,49952,Office Furnishings,107.53
+426,Allen Rosenblatt,50117,Labels,2.89
+427,Beth Thompson,50278,Binders and Binder Accessories,20.98
+428,Beth Thompson,50278,Tables,100.8
+429,Susan Vittorini,50374,Binders and Binder Accessories,120.98
+430,Sylvia Foulston,50565,Envelopes,16.98
+431,Joy Bell,50688,"Scissors, Rulers and Trimmers",12.98
+432,Becky Castell,50754,Telephones and Communication,7.99
+433,Carlos Daly,50914,Telephones and Communication,195.99
+434,Cari Schnelling,51169,Office Furnishings,136.98
+435,Jim Radford,51938,Telephones and Communication,125.99
+436,Allen Rosenblatt,51970,Office Machines,115.99
+437,Dorothy Badders,51971,Storage & Organization,32.48
+438,Dorothy Badders,51971,Tables,182.55
+439,Mike Pelletier,52193,Labels,2.88
+440,Mike Pelletier,52193,Pens & Art Supplies,2.94
+441,Doug Bickford,52321,Storage & Organization,12.28
+442,Doug Bickford,52321,Tables,349.45
+443,Susan Vittorini,52386,Office Machines,120.97
+444,Andrew Gjertsen,52807,Pens & Art Supplies,21.98
+445,Muhammed MacIntyre,52929,Office Machines,15.99
+446,Muhammed MacIntyre,52929,Pens & Art Supplies,2.78
+447,Muhammed MacIntyre,52929,Pens & Art Supplies,6.47
+448,Muhammed MacIntyre,52929,Rubber Bands,3.93
+449,Jim Radford,52964,Office Furnishings,136.98
+450,Bryan Davis,53156,Labels,4.13
+451,Anthony Johnson,53511,Binders and Binder Accessories,5.81
+452,Anthony Johnson,53511,Office Furnishings,9.65
+453,Doug Bickford,53797,Bookcases,58.14
+454,Carlos Daly,53990,Telephones and Communication,110.99
+455,Don Miller,54083,Appliances,279.81
+456,Don Jones,54274,Appliances,78.65
+457,Chad Cunningham,54276,Paper,35.44
+458,Ralph Arnett,54528,Pens & Art Supplies,11.66
+459,Ralph Arnett,54528,Pens & Art Supplies,10.48
+460,Nicole Hansen,54567,Office Furnishings,6.28
+461,Fred Wasserman,54628,Computer Peripherals,22.98
+462,Bryan Mills,55298,Chairs & Chairmats,300.98
+463,Ralph Arnett,55363,Storage & Organization,155.06
+464,Doug Bickford,55366,Computer Peripherals,55.94
+465,Eugene Barchas,55715,Binders and Binder Accessories,5.28
+466,Brad Eason,55875,Office Furnishings,7.59
+467,Brad Eason,55875,Storage & Organization,5.98
+468,Dorothy Wardle,56453,Office Machines,2550.14
+469,Ralph Knight,57127,Paper,55.48
+470,Sylvia Foulston,57344,Telephones and Communication,28.99
+471,Neola Schneider,57509,Labels,4.91
+472,Neola Schneider,57509,Tables,259.71
+473,Grant Carroll,57600,Binders and Binder Accessories,59.78
+474,Grant Carroll,57600,Labels,4.13
+475,Grant Carroll,57600,Paper,30.98
+476,Julia West,58055,Office Furnishings,7.38
+477,Muhammed MacIntyre,58144,Paper,26.38
+478,Susan Vittorini,58150,Binders and Binder Accessories,2.16
+479,Sylvia Foulston,58340,Appliances,50.98
+480,Doug Bickford,58368,Office Furnishings,2.08
+481,Doug Bickford,58368,Paper,6.48
+482,Doug Bickford,58368,Storage & Organization,64.98
+483,Dorothy Badders,58434,Office Furnishings,19.23
+484,Henry Goldwyn,58626,Chairs & Chairmats,300.98
+485,Henry Goldwyn,58626,Chairs & Chairmats,500.98
+486,Henry Goldwyn,58626,Computer Peripherals,45.19
+487,Grant Carroll,58688,Pens & Art Supplies,11.97
+488,Chad Cunningham,59045,Binders and Binder Accessories,4.55
+489,Beth Thompson,59047,Computer Peripherals,28.48
+490,Beth Thompson,59047,Office Furnishings,4.14
+491,Andrew Gjertsen,59202,Labels,12.53
+492,Andrew Gjertsen,59202,Pens & Art Supplies,5.85
+493,Sylvia Foulston,59207,Tables,280.98
+494,Michelle Lonsdale,59234,Appliances,177.98
+495,Michelle Lonsdale,59234,Chairs & Chairmats,50.98
+496,Cari Schnelling,59395,Paper,48.04
+497,Henry Goldwyn,59558,Labels,2.61
+498,Edward Hooks,59585,Office Machines,15.99
+499,Brendan Dodson,59651,Binders and Binder Accessories,8.04
+500,Brendan Dodson,59651,Office Furnishings,2.23
+501,Harold Engle,645,Binders and Binder Accessories,12.95
+502,Roy French,769,Office Machines,115.99
+503,Helen Abelman,773,Telephones and Communication,65.99
+504,Guy Armstrong,1187,Computer Peripherals,15.98
+505,Jennifer Braxton,2339,Storage & Organization,140.85
+506,Giulietta Baptist,3521,Pens & Art Supplies,4.28
+507,Jack Lebron,4007,Appliances,56.96
+508,Jack Lebron,4007,Storage & Organization,279.48
+509,Erica Bern,4416,Binders and Binder Accessories,165.98
+510,Erica Bern,4454,Labels,3.08
+511,Helen Abelman,5153,Chairs & Chairmats,128.24
+512,Guy Armstrong,5446,Envelopes,10.98
+513,Helen Abelman,8131,Computer Peripherals,29.89
+514,Christopher Schild,8994,Computer Peripherals,40.48
+515,Roy French,9027,Telephones and Communication,35.99
+516,Roy French,9216,Appliances,180.98
+517,Jennifer Braxton,9537,Bookcases,150.98
+518,Jennifer Braxton,9537,Binders and Binder Accessories,3.81
+519,Joy Smith,9574,Binders and Binder Accessories,11.5
+520,Evan Minnotte,10435,Pens & Art Supplies,22.99
+521,Evan Minnotte,10435,Pens & Art Supplies,11.66
+522,Jenna Caffey,10851,"Scissors, Rulers and Trimmers",12.88
+523,Harold Engle,10852,Binders and Binder Accessories,15.28
+524,Harold Engle,10852,Bookcases,300.98
+525,Harold Engle,11269,Telephones and Communication,65.99
+526,Harold Engle,11269,Labels,4.91
+527,Harold Engle,11269,Storage & Organization,27.75
+528,Hilary Holden,11362,Office Furnishings,110.98
+529,Hilary Holden,11362,"Scissors, Rulers and Trimmers",2.18
+530,Hilary Holden,11362,Copiers and Fax,699.99
+531,Hilary Holden,11362,Telephones and Communication,110.99
+532,Christopher Schild,11968,Pens & Art Supplies,3.38
+533,Harold Engle,12293,Envelopes,8.74
+534,Greg Guthrie,12773,Binders and Binder Accessories,2.78
+535,Greg Guthrie,12773,Office Furnishings,4.14
+536,Greg Guthrie,12773,Paper,6.48
+537,Greg Guthrie,12773,Pens & Art Supplies,3.28
+538,Guy Armstrong,12934,Envelopes,9.78
+539,Guy Armstrong,12934,Pens & Art Supplies,3.28
+540,Joy Smith,13120,Binders and Binder Accessories,12.95
+541,Joy Smith,13120,Binders and Binder Accessories,24.92
+542,Erica Bern,13604,Computer Peripherals,83.1
+543,Erica Bern,13604,Office Furnishings,90.98
+544,Dan Reichenbach,13927,Paper,6.48
+545,Erica Bern,15044,Computer Peripherals,39.99
+546,Guy Armstrong,15139,Chairs & Chairmats,300.98
+547,Guy Armstrong,15139,Storage & Organization,20.98
+548,Evan Minnotte,15463,Paper,5.98
+549,Joy Smith,15618,Paper,5.28
+550,Joy Smith,15618,Paper,18.97
+551,Joy Smith,15618,Telephones and Communication,65.99
+552,Paul Gonzalez,16100,Office Furnishings,4.82
+553,Filia McAdams,16320,Telephones and Communication,125.99
+554,Joy Smith,16419,Paper,5.78
+555,Greg Guthrie,17090,Bookcases,140.98
+556,Greg Guthrie,17090,Chairs & Chairmats,122.99
+557,Joy Smith,17315,Paper,5.43
+558,Joy Smith,17376,Computer Peripherals,28.48
+559,Greg Guthrie,18210,Appliances,363.25
+560,Greg Guthrie,18210,Pens & Art Supplies,2.88
+561,Jack Lebron,18273,Computer Peripherals,49.99
+562,Joy Smith,18788,Office Furnishings,19.99
+563,Evan Minnotte,19042,Binders and Binder Accessories,40.98
+564,Chuck Magee,19073,Office Furnishings,10.64
+565,Chuck Magee,19073,Pens & Art Supplies,2.78
+566,Filia McAdams,19365,Paper,5.98
+567,Jack Lebron,19617,Office Machines,23.99
+568,Jack Lebron,19617,Telephones and Communication,65.99
+569,Jack Lebron,20033,Copiers and Fax,499.99
+570,Harold Engle,21223,Bookcases,100.98
+571,Harold Engle,21223,Office Furnishings,51.65
+572,Jack Lebron,21378,Binders and Binder Accessories,28.53
+573,Jack Lebron,21378,Computer Peripherals,99.99
+574,Frank Atkinson,21542,Pens & Art Supplies,21.38
+575,Frank Atkinson,21542,Tables,348.21
+576,Jack Lebron,22469,Appliances,60.98
+577,Jack Lebron,22469,Tables,290.98
+578,Evan Minnotte,22656,Computer Peripherals,30.98
+579,Joy Smith,22695,Paper,10.06
+580,Dan Reichenbach,23076,Office Furnishings,14.2
+581,Jack Lebron,24038,Telephones and Communication,65.99
+582,Frank Atkinson,24067,Paper,5.98
+583,Frank Atkinson,24067,Telephones and Communication,65.99
+584,Erica Bern,24388,Copiers and Fax,549.99
+585,Jack Lebron,24451,Appliances,68.81
+586,Filia McAdams,24806,Binders and Binder Accessories,5.18
+587,Jack Lebron,24965,Binders and Binder Accessories,420.98
+588,Jack Lebron,24965,Office Furnishings,29.18
+589,Giulietta Baptist,25154,Pens & Art Supplies,6.68
+590,Joy Smith,25315,Appliances,225.04
+591,Joy Smith,25315,Pens & Art Supplies,2.84
+592,Joy Smith,25315,Tables,31.76
+593,Greg Guthrie,25376,Office Furnishings,6.28
+594,Carlos Soltero,26240,Computer Peripherals,39.48
+595,Carlos Soltero,26240,Office Furnishings,3.7
+596,Harold Engle,26791,Storage & Organization,11.29
+597,Erica Bern,28836,Telephones and Communication,195.99
+598,Erica Bern,28836,Binders and Binder Accessories,172.99
+599,Hilary Holden,28995,Paper,30.98
+600,Hilary Holden,28995,Paper,19.98
+601,Jack Lebron,29121,Telephones and Communication,125.99
+602,Filia McAdams,29319,Chairs & Chairmats,238.4
+603,Filia McAdams,29319,Copiers and Fax,199.99
+604,Greg Guthrie,29382,Envelopes,5.68
+605,Greg Guthrie,29382,Office Furnishings,19.98
+606,Harold Engle,29445,Office Machines,90.97
+607,Philip Brown,29762,Rubber Bands,1.48
+608,Helen Abelman,30048,Appliances,180.98
+609,Hilary Holden,30243,Appliances,60.22
+610,Hilary Holden,30243,Copiers and Fax,199.99
+611,Christopher Schild,30372,Office Furnishings,12.22
+612,Carlos Soltero,30499,Envelopes,5.98
+613,Carlos Soltero,30499,Pens & Art Supplies,5.84
+614,Erica Bern,32199,Binders and Binder Accessories,4.91
+615,Erica Bern,32199,Copiers and Fax,3499.99
+616,Erica Bern,32199,Pens & Art Supplies,5.84
+617,Erica Bern,32327,Tables,550.98
+618,Joy Smith,32676,Computer Peripherals,45.19
+619,Joy Smith,32835,Telephones and Communication,45.99
+620,Christopher Schild,32869,Computer Peripherals,8.12
+621,Christopher Schild,32869,Office Furnishings,51.65
+622,Christopher Schild,32869,Pens & Art Supplies,6.68
+623,Christopher Schild,32869,Telephones and Communication,175.99
+624,Evan Minnotte,33763,Copiers and Fax,499.99
+625,Christopher Schild,34048,Office Furnishings,22.23
+626,Greg Guthrie,34275,Pens & Art Supplies,4.84
+627,Harold Engle,34438,Pens & Art Supplies,20.15
+628,Philip Brown,34880,Paper,6.48
+629,Carlos Soltero,34978,Binders and Binder Accessories,3.52
+630,Jennifer Braxton,35141,Binders and Binder Accessories,67.28
+631,Dan Reichenbach,35300,Labels,2.89
+632,Dan Reichenbach,35300,Office Furnishings,41.32
+633,Dan Reichenbach,35300,Paper,8.95
+634,Carlos Soltero,35558,Office Furnishings,13.79
+635,Carlos Soltero,36293,Computer Peripherals,100.98
+636,Carlos Soltero,36293,Paper,6.48
+637,Giulietta Baptist,36516,Computer Peripherals,100.98
+638,Jack Lebron,36677,Copiers and Fax,599.99
+639,Guy Armstrong,37185,Pens & Art Supplies,2.6
+640,Hilary Holden,37888,Binders and Binder Accessories,20.98
+641,Jack Lebron,38310,Appliances,3.48
+642,Erica Bern,40327,Envelopes,3.69
+643,Erica Bern,40327,Paper,4.28
+644,Harold Engle,40480,Binders and Binder Accessories,420.98
+645,Harold Engle,40480,Office Furnishings,26.48
+646,Jim Sink,40800,Envelopes,5.68
+647,Jennifer Braxton,40835,Binders and Binder Accessories,15.01
+648,Jennifer Braxton,40835,Computer Peripherals,40.48
+649,Jennifer Braxton,40835,Storage & Organization,12.28
+650,Joy Smith,40871,Binders and Binder Accessories,8.85
+651,Joy Smith,40871,Chairs & Chairmats,110.98
+652,Harold Engle,41570,Paper,104.85
+653,Philip Brown,41991,Chairs & Chairmats,50.98
+654,Philip Brown,41991,Office Furnishings,14.58
+655,Philip Brown,41991,Office Furnishings,45.98
+656,Giulietta Baptist,42400,Computer Peripherals,19.98
+657,Giulietta Baptist,42400,Computer Peripherals,10.97
+658,Paul Gonzalez,42754,Binders and Binder Accessories,10.98
+659,Logan Haushalter,42918,Binders and Binder Accessories,14.27
+660,Logan Haushalter,42918,Office Machines,9.49
+661,Filia McAdams,42944,Chairs & Chairmats,216.6
+662,Carlos Soltero,44037,Office Furnishings,22.23
+663,Carlos Soltero,44037,Telephones and Communication,55.99
+664,Erica Bern,44387,Computer Peripherals,29.89
+665,Erica Bern,44387,Paper,8.34
+666,Greg Guthrie,44576,Tables,124.49
+667,Dan Reichenbach,45601,Paper,19.98
+668,Jim Sink,45606,Office Furnishings,8.75
+669,Jim Sink,45606,Pens & Art Supplies,5.85
+670,Carlos Soltero,46119,Binders and Binder Accessories,3.8
+671,Carlos Soltero,46119,Paper,7.98
+672,Carlos Soltero,46119,Tables,417.4
+673,Chuck Magee,46756,Paper,7.28
+674,Philip Brown,47714,Binders and Binder Accessories,5.53
+675,Hilary Holden,47846,Office Furnishings,10.68
+676,Hilary Holden,47846,Office Furnishings,110.98
+677,Hilary Holden,47846,Office Furnishings,105.98
+678,Hilary Holden,47846,Paper,6.68
+679,Greg Guthrie,47876,Appliances,46.89
+680,Jennifer Braxton,48067,Telephones and Communication,125.99
+681,Jennifer Braxton,48067,Telephones and Communication,195.99
+682,Erica Bern,48199,Envelopes,15.74
+683,Jim Sink,49029,Telephones and Communication,195.99
+684,Noah Childs,49216,Binders and Binder Accessories,24.92
+685,Noah Childs,49216,Office Machines,270.97
+686,Noah Childs,49216,Paper,12.28
+687,Evan Minnotte,49990,Office Machines,442.14
+688,Guy Armstrong,50081,Bookcases,70.98
+689,Guy Armstrong,50404,Storage & Organization,210.55
+690,Guy Armstrong,50404,Tables,182.55
+691,Chuck Magee,50784,Computer Peripherals,32.98
+692,Greg Guthrie,50850,Binders and Binder Accessories,40.98
+693,Greg Guthrie,50850,Tables,417.4
+694,Carlos Soltero,51075,Telephones and Communication,35.99
+695,Greg Guthrie,51461,Office Furnishings,19.99
+696,Greg Guthrie,51558,Paper,6.68
+697,Greg Guthrie,51558,Tables,85.29
+698,Carlos Soltero,52130,Binders and Binder Accessories,4.13
+699,Carlos Soltero,52130,Office Furnishings,40.89
+700,Greg Guthrie,52482,Appliances,40.98
+701,Greg Guthrie,52482,Office Furnishings,22.23
+702,Christopher Schild,53410,Appliances,14.81
+703,Joy Smith,53477,Chairs & Chairmats,95.95
+704,Joy Smith,53477,Chairs & Chairmats,300.98
+705,Joy Smith,53477,Paper,37.94
+706,Joy Smith,53477,Storage & Organization,161.55
+707,Joy Smith,53508,Computer Peripherals,80.98
+708,Joy Smith,53508,Office Machines,13.99
+709,Joy Smith,53508,Paper,15.04
+710,Guy Armstrong,53703,Storage & Organization,140.85
+711,Brian Moss,54115,Appliances,4.37
+712,Brian Moss,54115,Binders and Binder Accessories,4.98
+713,Logan Haushalter,54437,Telephones and Communication,55.99
+714,Guy Armstrong,54501,Telephones and Communication,65.99
+715,Guy Armstrong,54501,Office Machines,13.99
+716,Guy Armstrong,54501,Storage & Organization,20.34
+717,Christopher Schild,54753,Telephones and Communication,155.99
+718,Jim Sink,55138,Storage & Organization,48.91
+719,Carlos Soltero,55271,Chairs & Chairmats,100.89
+720,Jennifer Braxton,55331,Envelopes,3.69
+721,Brian Moss,55618,Telephones and Communication,35.99
+722,Harold Engle,56645,Paper,30.98
+723,Harold Engle,56645,Tables,348.21
+724,Carlos Soltero,56803,Paper,6.48
+725,Hilary Holden,57159,Chairs & Chairmats,280.98
+726,Hilary Holden,57159,Paper,9.99
+727,Logan Haushalter,57507,Binders and Binder Accessories,15.01
+728,Guy Armstrong,57922,"Scissors, Rulers and Trimmers",6.84
+729,Erica Bern,58117,"Scissors, Rulers and Trimmers",3.14
+730,Logan Haushalter,58278,Office Furnishings,99.23
+731,Logan Haushalter,58278,Telephones and Communication,85.99
+732,Harold Engle,58502,Chairs & Chairmats,226.67
+733,Christopher Schild,58788,Computer Peripherals,30.98
+734,Helen Abelman,58947,Paper,8.01
+735,Helen Abelman,58947,Paper,4.98
+736,Jack Lebron,59074,Office Furnishings,14.98
+737,Jack Lebron,59233,Bookcases,100.98
+738,Jack Lebron,59233,Office Furnishings,14.34
+739,Giulietta Baptist,59425,Computer Peripherals,83.1
+740,Giulietta Baptist,59425,Paper,37.94
+741,Jim Sink,59750,Paper,6.48
+742,Julie Creighton,35,Pens & Art Supplies,9.11
+743,Julie Creighton,35,Telephones and Communication,155.99
+744,Sanjit Chand,294,Storage & Organization,193.17
+745,Matt Collins,450,Pens & Art Supplies,34.58
+746,Matt Collins,450,Storage & Organization,15.7
+747,Matt Collins,1028,Computer Peripherals,28.48
+748,Matt Collins,1028,Telephones and Communication,205.99
+749,Justin Knight,1314,Paper,9.27
+750,Rob Haberlin,2279,Chairs & Chairmats,90.98
+751,Rob Haberlin,2279,Storage & Organization,20.98
+752,Rob Haberlin,2465,Computer Peripherals,39.48
+753,Rob Haberlin,2530,Labels,2.61
+754,Rob Haberlin,2883,Storage & Organization,64.98
+755,Christina Vanderzanden,3362,Computer Peripherals,40.98
+756,Christina Vanderzanden,3362,Storage & Organization,15.14
+757,Matt Collins,5318,Appliances,131.12
+758,Matt Collins,5318,Telephones and Communication,200.99
+759,Sanjit Chand,5988,Copiers and Fax,499.99
+760,Matt Collins,6115,Office Furnishings,17.78
+761,Justin Knight,6337,Office Furnishings,70.71
+762,Justin Knight,6337,Tables,376.13
+763,Rob Haberlin,6434,Paper,4.76
+764,Lena Cacioppo,7136,Computer Peripherals,39.48
+765,Lena Cacioppo,7136,Labels,4.91
+766,Kimberly Carter,7489,Bookcases,180.98
+767,Gene Hale,7968,Chairs & Chairmats,150.98
+768,Christina Vanderzanden,8227,Computer Peripherals,4.77
+769,Matt Collins,9123,Storage & Organization,14.03
+770,Sally Knutson,9792,Binders and Binder Accessories,5.4
+771,Kimberly Carter,9860,Computer Peripherals,7.28
+772,Christina Vanderzanden,10310,Pens & Art Supplies,2.88
+773,Christina Vanderzanden,10310,Telephones and Communication,195.99
+774,Kimberly Carter,10369,Paper,5.78
+775,Kimberly Carter,10369,Computer Peripherals,28.48
+776,Rob Haberlin,10692,Pens & Art Supplies,3.57
+777,Rob Haberlin,10692,Telephones and Communication,200.99
+778,Rob Haberlin,10692,Telephones and Communication,195.99
+779,Justin Knight,11553,Storage & Organization,52.99
+780,Justin Knight,11553,Bookcases,100.98
+781,Justin Knight,11553,Telephones and Communication,85.99
+782,Christina Vanderzanden,11776,Rubber Bands,1.26
+783,Marina Lichtenstein,11782,Paper,4.98
+784,Marina Lichtenstein,11782,Telephones and Communication,66.99
+785,Justin Knight,12199,Binders and Binder Accessories,6.54
+786,Justin Knight,12199,Storage & Organization,155.06
+787,Gene Hale,14275,Binders and Binder Accessories,2.08
+788,Gene Hale,14275,Chairs & Chairmats,160.98
+789,Gene Hale,14535,Storage & Organization,11.29
+790,Rob Haberlin,15329,Computer Peripherals,29.89
+791,Gene Hale,15621,Pens & Art Supplies,1.68
+792,Gene Hale,15621,Storage & Organization,28.28
+793,Michelle Arnett,17826,Binders and Binder Accessories,3.89
+794,Sally Knutson,17926,Storage & Organization,15.31
+795,Rob Haberlin,18247,Office Furnishings,7.59
+796,Justin Knight,18471,Pens & Art Supplies,5.98
+797,Justin Knight,18471,"Scissors, Rulers and Trimmers",2.08
+798,Justin Knight,18471,Paper,5.98
+799,Lena Cacioppo,19813,Telephones and Communication,45.99
+800,Seth Vernon,20322,Binders and Binder Accessories,3.58
+801,Seth Vernon,20322,Bookcases,100.98
+802,Seth Vernon,20322,Paper,5.78
+803,Gene Hale,20422,Office Furnishings,14.34
+804,Luke Weiss,20448,Envelopes,3.69
+805,Justin Knight,21892,Binders and Binder Accessories,4.91
+806,Rob Haberlin,22980,Storage & Organization,12.44
+807,Julie Creighton,23907,Telephones and Communication,65.99
+808,Sanjit Chand,24064,Office Machines,297.64
+809,Justin Knight,24132,Binders and Binder Accessories,6.75
+810,Justin Knight,24132,Binders and Binder Accessories,7.1
+811,Justin Knight,24132,Computer Peripherals,20.95
+812,Justin Knight,24132,Binders and Binder Accessories,39.06
+813,Justin Knight,24132,Binders and Binder Accessories,3.52
+814,Justin Knight,24132,Storage & Organization,15.51
+815,Luke Weiss,24576,Telephones and Communication,20.99
+816,Luke Weiss,24576,Office Furnishings,14.58
+817,Christina Vanderzanden,25248,Computer Peripherals,8.33
+818,Christina Vanderzanden,25248,Paper,48.91
+819,Lena Cacioppo,25475,Paper,6.48
+820,Seth Vernon,26978,Paper,18.97
+821,Sanjit Chand,27105,Envelopes,5.98
+822,Sanjit Chand,27105,Office Furnishings,10.4
+823,Julie Creighton,28068,Computer Peripherals,27.48
+824,Sanjit Chand,28802,Office Furnishings,17.67
+825,Sanjit Chand,28802,Paper,8.34
+826,Sanjit Chand,28802,Telephones and Communication,205.99
+827,Anthony Johnson,28839,Pens & Art Supplies,3.34
+828,Anthony Johnson,29252,Paper,6.48
+829,Kimberly Carter,31941,Appliances,78.65
+830,Kimberly Carter,31941,Paper,6.48
+831,Marina Lichtenstein,32418,Chairs & Chairmats,243.98
+832,Sanjit Chand,34241,Envelopes,52.71
+833,Sally Knutson,34816,Appliances,41.71
+834,Sally Knutson,34816,Envelopes,60.98
+835,Luke Weiss,35011,"Scissors, Rulers and Trimmers",10.98
+836,Anthony Johnson,36068,Appliances,279.81
+837,Michelle Arnett,36930,Telephones and Communication,85.99
+838,Luke Weiss,37315,Paper,4.28
+839,Luke Weiss,37315,Telephones and Communication,175.99
+840,Luke Weiss,37925,Office Machines,90.97
+841,Luke Weiss,37925,Telephones and Communication,65.99
+842,Rob Haberlin,38021,Binders and Binder Accessories,30.44
+843,Julie Creighton,38336,Binders and Binder Accessories,6.75
+844,Julie Creighton,38336,Computer Peripherals,10.97
+845,Justin Knight,38565,Office Furnishings,10.64
+846,Sally Knutson,39783,Appliances,4.06
+847,Sally Knutson,39783,Binders and Binder Accessories,8.85
+848,Sally Knutson,39783,Labels,3.15
+849,Michelle Arnett,42500,Appliances,48.92
+850,Michelle Arnett,42500,Binders and Binder Accessories,8.69
+851,Julie Creighton,44162,"Scissors, Rulers and Trimmers",10.98
+852,Sally Knutson,44256,Paper,8.01
+853,Sally Knutson,44256,Paper,6.48
+854,Sally Knutson,44256,Pens & Art Supplies,40.97
+855,Sally Knutson,44320,Tables,154.13
+856,Kimberly Carter,45377,Binders and Binder Accessories,2.08
+857,Rob Haberlin,47367,Binders and Binder Accessories,3.8
+858,Rob Haberlin,47367,Labels,3.69
+859,Sally Knutson,47750,Labels,2.88
+860,Sally Knutson,47750,Office Furnishings,25.38
+861,Marina Lichtenstein,48388,Binders and Binder Accessories,5.74
+862,Christina DeMoss,49059,Labels,2.89
+863,Christina DeMoss,49059,Paper,48.91
+864,Luke Weiss,49510,Pens & Art Supplies,2.58
+865,Sally Knutson,49634,Binders and Binder Accessories,2.88
+866,Michelle Arnett,50210,Labels,3.75
+867,Michelle Arnett,50210,Rubber Bands,1.86
+868,Sanjit Chand,50503,Telephones and Communication,65.99
+869,Anthony Johnson,50816,Appliances,11.97
+870,Anthony Johnson,50816,Binders and Binder Accessories,28.53
+871,Anthony Johnson,50816,Computer Peripherals,15.28
+872,Luke Weiss,51073,Office Furnishings,136.98
+873,Luke Weiss,51073,Office Furnishings,30.93
+874,Rob Haberlin,51584,Chairs & Chairmats,110.98
+875,Monica Federle,51879,Office Furnishings,51.94
+876,Monica Federle,51879,Paper,19.98
+877,Kimberly Carter,52288,Office Furnishings,78.69
+878,Michelle Arnett,53190,Binders and Binder Accessories,28.53
+879,Michelle Arnett,53190,Telephones and Communication,65.99
+880,Sanjit Chand,53536,Office Furnishings,22.98
+881,Sanjit Chand,53536,Tables,179.29
+882,Marina Lichtenstein,53572,Envelopes,11.09
+883,Joy Smith,53825,Paper,48.04
+884,Christina DeMoss,53863,Storage & Organization,161.55
+885,Monica Federle,54119,Rubber Bands,5.81
+886,Monica Federle,54119,Storage & Organization,29.74
+887,Michelle Arnett,56224,Binders and Binder Accessories,3.81
+888,Michelle Arnett,56224,Chairs & Chairmats,95.95
+889,Michelle Arnett,56224,Rubber Bands,7.89
+890,Michelle Arnett,56224,Tables,124.49
+891,Michelle Arnett,56293,Office Furnishings,19.99
+892,Michelle Arnett,56293,Storage & Organization,16.91
+893,Sally Knutson,57959,Rubber Bands,5.81
+894,Sally Knutson,57959,Computer Peripherals,26.31
+895,Christina DeMoss,58500,Telephones and Communication,110.99
+896,Joy Smith,59584,Bookcases,100.98
+897,Joy Smith,59584,Office Machines,150.98
+898,Sonia Sunley,261,Telephones and Communication,140.99
+899,Anthony O'Donnell,928,Appliances,59.98
+900,Anthony O'Donnell,928,Office Furnishings,14.58
+901,Emily Grady,1282,Computer Peripherals,31.78
+902,Emily Grady,1282,Pens & Art Supplies,2.78
+903,Alex Avila,1856,Appliances,60.98
+904,Alex Avila,1856,Telephones and Communication,125.99
+905,Alex Avila,1856,Telephones and Communication,125.99
+906,Brian Moss,1925,Chairs & Chairmats,276.2
+907,Emily Grady,2848,Office Furnishings,43.31
+908,Emily Grady,2848,Telephones and Communication,125.99
+909,Anna Andreadi,5504,Paper,5.78
+910,Anna Andreadi,5504,Telephones and Communication,45.99
+911,Emily Grady,8390,Computer Peripherals,30.98
+912,Barbara Fisher,8545,Binders and Binder Accessories,4.13
+913,Barbara Fisher,8545,Bookcases,130.98
+914,Emily Grady,9573,"Scissors, Rulers and Trimmers",3.14
+915,Kelly Williams,9892,Envelopes,27.18
+916,Sonia Sunley,10048,Computer Peripherals,73.98
+917,Sonia Sunley,10048,"Scissors, Rulers and Trimmers",3.68
+918,Sonia Sunley,10144,Chairs & Chairmats,355.98
+919,Sonia Sunley,10144,Chairs & Chairmats,160.98
+920,Sonia Sunley,10144,Tables,280.98
+921,Sonia Sunley,10432,Computer Peripherals,179.99
+922,Jocasta Rupert,10661,"Scissors, Rulers and Trimmers",6.84
+923,Sonia Sunley,12806,Envelopes,35.89
+924,Kelly Williams,13158,Binders and Binder Accessories,6.75
+925,Anna Andreadi,13507,Paper,6.78
+926,Rick Duston,14375,Paper,5.78
+927,Sonia Sunley,14627,Binders and Binder Accessories,14.48
+928,Angele Hood,14852,Binders and Binder Accessories,420.98
+929,Sonia Sunley,16230,Labels,7.31
+930,Sonia Sunley,16230,Bookcases,130.98
+931,Sonia Sunley,16230,Paper,48.91
+932,Sonia Sunley,16230,Storage & Organization,111.03
+933,Sonia Sunley,19074,Appliances,208.16
+934,Dennis Bolton,20194,Office Furnishings,20.24
+935,Stewart Carmichael,21024,Pens & Art Supplies,5.84
+936,Dennis Bolton,21509,Labels,3.69
+937,Sonia Sunley,21856,Labels,3.69
+938,Sonia Sunley,21856,"Scissors, Rulers and Trimmers",3.14
+939,Stewart Carmichael,22119,Appliances,49.43
+940,Kelly Williams,22534,Envelopes,83.93
+941,Sonia Sunley,22629,Computer Peripherals,73.98
+942,Kelly Williams,23011,Computer Peripherals,10.01
+943,Sonia Sunley,24070,Binders and Binder Accessories,4.91
+944,Sonia Sunley,24070,Chairs & Chairmats,140.81
+945,Sonia Sunley,24070,Pens & Art Supplies,5.58
+946,Sonia Sunley,24737,Chairs & Chairmats,180.98
+947,Sonia Sunley,24737,Paper,6.48
+948,Anna Andreadi,26373,Appliances,40.98
+949,Seth Vernon,26978,Copiers and Fax,599.99
+950,Seth Vernon,26978,Paper,40.99
+951,Seth Vernon,26978,Storage & Organization,15.31
+952,Alex Avila,27174,Telephones and Communication,35.99
+953,Sarah Foster,27876,Pens & Art Supplies,16.99
+954,Alex Avila,28582,Computer Peripherals,39.24
+955,Alex Avila,28582,Paper,8.01
+956,Anna Andreadi,28868,Paper,6.48
+957,Angele Hood,29857,Bookcases,140.98
+958,Sonia Sunley,29921,Binders and Binder Accessories,120.98
+959,Kelly Williams,30659,Telephones and Communication,85.99
+960,Anna Andreadi,30660,Tables,71.37
+961,Alex Avila,30883,Paper,6.98
+962,Jim Karlsson,32871,Computer Peripherals,20.97
+963,Sonia Sunley,33600,Paper,4.28
+964,Alex Avila,33632,Telephones and Communication,115.99
+965,Lisa DeCherney,33665,Chairs & Chairmats,284.98
+966,Barbara Fisher,34434,Binders and Binder Accessories,1.8
+967,Barbara Fisher,34434,Labels,4.98
+968,Barbara Fisher,34753,Telephones and Communication,20.99
+969,Lisa DeCherney,35364,Paper,4.28
+970,Lisa DeCherney,35364,Tables,376.13
+971,Lisa DeCherney,35364,Tables,424.21
+972,Lisa DeCherney,35364,Telephones and Communication,195.99
+973,Barbara Fisher,35812,Chairs & Chairmats,113.98
+974,Barbara Fisher,35812,Computer Peripherals,30.73
+975,Barbara Fisher,35812,Paper,47.9
+976,Alex Avila,37063,Office Furnishings,17.67
+977,Roy Skaria,37281,Telephones and Communication,20.99
+978,Angele Hood,37798,Chairs & Chairmats,291.73
+979,Seth Vernon,38017,Paper,4.98
+980,Seth Vernon,38017,Telephones and Communication,125.99
+981,Sarah Foster,38272,Binders and Binder Accessories,1.88
+982,Kelly Williams,39301,Computer Peripherals,152.48
+983,Dennis Bolton,39367,Binders and Binder Accessories,4.13
+984,Dennis Bolton,39367,Envelopes,4.48
+985,Roy Skaria,39655,Computer Peripherals,7.28
+986,Jim Karlsson,40803,Binders and Binder Accessories,3.8
+987,Jim Karlsson,40803,Chairs & Chairmats,300.98
+988,Barbara Fisher,40806,Binders and Binder Accessories,5.4
+989,Anna Andreadi,43523,Paper,5.98
+990,Seth Vernon,44199,Rubber Bands,3.95
+991,Alex Avila,44231,Chairs & Chairmats,160.98
+992,Alex Avila,44231,Computer Peripherals,17.98
+993,Alex Avila,44231,Telephones and Communication,115.99
+994,Sonia Sunley,45573,Chairs & Chairmats,120.98
+995,Lisa DeCherney,45763,Labels,2.61
+996,Dennis Bolton,48165,Paper,6.48
+997,Anthony O'Donnell,48197,Office Furnishings,40.97
+998,Barbara Fisher,48484,Computer Peripherals,16.48
+999,Barbara Fisher,48484,Office Furnishings,20.24
+1000,Barbara Fisher,48484,Paper,18.97
